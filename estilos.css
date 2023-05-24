@@ -1,0 +1,61 @@
+#titulo{
+    color: teal;
+}
+#gg{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+
+#aenean{
+    color: red;
+}
+.prt{
+    color: purple;
+}
+.especial{
+    color: orange;
+}
+#donec{
+    color: green;
+}
+.tf2{
+    color: red;
+}
+#purus{
+    color: orange;
+}
+
+#colm{
+    color: green;
+}
+#dpi{
+    color: olive;
+}
+#fusce{
+    color: olive;
+}
+#nunc{
+    color: fuchsia;
+}
+#vivamus{
+    color: olive;
+}
+table{
+border-collapse: collapse;
+width: 30%;
+}
+.dfg{
+    color: green;
+}
+
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
